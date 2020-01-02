@@ -1,0 +1,1 @@
+cmd_/home/citofonia/tlwn8200nddriver/8192eu.ko := ld -EL -r  -T /usr/src/linux-headers-3.4.113-sun8i/scripts/module-common.lds --build-id  -o /home/citofonia/tlwn8200nddriver/8192eu.ko /home/citofonia/tlwn8200nddriver/8192eu.o /home/citofonia/tlwn8200nddriver/8192eu.mod.o
